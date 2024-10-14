@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I'm currently studying the Laravel framework**
 
-- 📝 I regularly write articles on [https://ahmadderi.my.id/](https://ahmadderi.my.id/)
+- 📝 I regularly write articles on [https://ahmaddery.com/](https://ahmaddery.com/)
 
 - 📫 How to reach me **ahmadderi880@gmail.com**
 
